@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Muda a cor da Barra de Ação (sets background color of app bar) -->
+        <item name="colorPrimary">#FF9800</item>
+        <!-- Muda a cor dos botões -->
+        <item name="colorButtonNormal">#FF9800</item>
+    </style>
+</resources>
